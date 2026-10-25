@@ -29,10 +29,10 @@ Private Endpoint is the key technology behind Private Link. Private Endpoint is 
 *Review Screen for creating private endpoint with resource connection to cst8912storage, virtual network of 8912-vnet1 and Subnet of Subnet-1-8912*
 
 ![Subnet network policy settings screen showing network policies setting for all private endpoints in this ubnet enabled](/Screenshots/Subnet%20Network%20Policy.png "Subnet network policy settings screen showing network policies setting for all private endpoints in this ubnet enabled")
-*Subnet network policy settings screen showing network policies setting for all private endpoints in this ubnet enabled*
+*Subnet network policy settings screen showing network policies setting for all private endpoints in this subnet enabled*
 
 ![Review screen for creating virtual machine with Windows Server 2022 Datacenter and smallest available size and no public inbound ports](/Screenshots/Creating%20VM.png "Settings for Subnet, using default starting addrress of 10.0.2.0, with private subnet enabled and no public inbound ports")
-*Settings for Subnet, using default starting addrress of 10.0.2.0, with private subnet enabled and no public inbounds ports*
+*Settings for Virtual Machine, using default starting addrress of 10.0.2.0, with private subnet enabled and no public inbounds ports*
 
 ![Storage Account storage access keys with details hidden](/Screenshots/Storage%20Account%20Access%20Keys.png "Storage Account storage access keys with details hidden")
 *Storage Account storage access keys with details hidden*
